@@ -1,6 +1,6 @@
 body {
     text-align: center;
-
+     background-repeat: no-repeat;
 }
 
 img {
@@ -64,3 +64,32 @@ p {
     font-size: 18;
 
 }
+img{
+ border-radius:50%;
+  width:100px;
+}
+.contact1 a {
+    color: white;
+    text-shadow: none;
+
+}
+
+#contacts {
+    background: firebrick;
+
+}
+
+#contacts iframe {
+    width: 100%
+}
+
+.contact1 h3 {
+    display: inline;
+}
+img{
+border-color: darkgrey;
+}
+img:hover{
+    transform: scale(0.9)
+}
+
